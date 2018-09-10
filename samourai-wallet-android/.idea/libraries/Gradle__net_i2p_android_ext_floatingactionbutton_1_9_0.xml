@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.i2p.android.ext:floatingactionbutton-1.9.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/ed1481f2cdaca9afd5d09bdcec011da1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/floatingactionbutton-1.9.0.aar/ed1481f2cdaca9afd5d09bdcec011da1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.i2p.android.ext/floatingactionbutton/1.9.0/986ffbe97f5ff7fe16e7673c2b06f0767c5e1a0/floatingactionbutton-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

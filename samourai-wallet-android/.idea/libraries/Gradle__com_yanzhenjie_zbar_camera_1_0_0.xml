@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yanzhenjie.zbar:camera-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-1.0.0.aar/9fb19d1034424cc8952c936607656a52/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-1.0.0.aar/9fb19d1034424cc8952c936607656a52/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yanzhenjie.zbar/camera/1.0.0/b6dc26879eb8033c352e1d9ccd2899ba425e5c84/camera-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
